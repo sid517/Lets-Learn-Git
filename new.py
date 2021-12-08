@@ -1,4 +1,4 @@
 a=23
 b=56
 c=a+b
-print(c)
+print('A + B sum is:',c)
